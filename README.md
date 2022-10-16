@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Egg Runner](https://github.com/BatuhanAltinel/Egg-Runner)
 
-- 🌱 I’m currently learning **C# , UNITY3D**
+- 🌱 I’m currently learning **C# , Unity 3D**
 
 - 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/developer?id=Batuhan+ALTINEL)
 
