@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Batuhan ALTINEL</h1>
 <h3 align="center">A passionate game developer from Turkiye</h3>
 
-- 🔭 I’m currently working on [Egg Runner](https://github.com/BatuhanAltinel/Egg-Runner)
+- 🔭 I’m currently working on [Count Master Clone](https://github.com/BatuhanAltinel/Count-Master--GameFactory-Clone-)
 
 - 🌱 I’m currently learning **C# , Unity 3D**
 
