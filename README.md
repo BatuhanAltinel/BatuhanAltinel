@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://batuhanaltinel.github.io/home/](https://batuhanaltinel.github.io/home/)
 
-- ⚡ Fun fact **Funny, eager to learn, energic**
+- ⚡ **Funny, eager to learn, energic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
